@@ -3,9 +3,8 @@
 ---
 
 [![ZUtil](https://github-readme-stats.vercel.app/api/pin/?username=duanluan&repo=ZUtil&theme=swift)](https://github.com/duanluan/ZUtil)
-[![
-ultimate-resources-zh-hans
-](https://github-readme-stats.vercel.app/api/pin/?username=duanluan&repo=ultimate-resources-zh-hans&theme=swift)](https://github.com/duanluan/ultimate-resources-zh-hans)
+[![ultimate-resources-zh-hans](https://github-readme-stats.vercel.app/api/pin/?username=duanluan&repo=ultimate-resources-zh-hans&theme=swift)](https://github.com/duanluan/ultimate-resources-zh-hans)
+[![ComicEnhancerPro-Nodes](https://github-readme-stats.vercel.app/api/pin/?username=duanluan&repo=ComicEnhancerPro-Nodes&theme=swift)](https://github.com/duanluan/ComicEnhancerPro-Nodes)
 
 ---
 
