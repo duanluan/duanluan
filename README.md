@@ -9,6 +9,7 @@
 ---
 
 [![ZUtil](https://github-readme-stats-duanluan.vercel.app/api/pin/?username=duanluan&repo=ZUtil&theme=swift)](https://github.com/duanluan/ZUtil)
+[![tampermonkey-scripts](https://github-readme-stats-duanluan.vercel.app/api/pin/?username=duanluan&repo=tampermonkey-scripts&theme=swift)](https://github.com/duanluan/tampermonkey-scripts)
 [![taro-guide](https://github-readme-stats-duanluan.vercel.app/api/pin/?username=duanluan&repo=taro-guide&theme=swift)](https://github.com/duanluan/taro-guide)
 [![MyCommunity](https://github-readme-stats-duanluan.vercel.app/api/pin/?username=csa-f&repo=MyCommunity&theme=swift)](https://github.com/csa-f/MyCommunity)
 [![ultimate-resources-zh-hans](https://github-readme-stats-duanluan.vercel.app/api/pin/?username=duanluan&repo=ultimate-resources-zh-hans&theme=swift)](https://github.com/duanluan/ultimate-resources-zh-hans)
