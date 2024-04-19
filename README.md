@@ -3,6 +3,7 @@
 # 网站
 
 - [勤为径苦作舟 - duanluan 的博客](https://blog.zhjh.top/)
+- [电子图书资源大全](https://jvw69opkhd.feishu.cn/base/RCKdbmYBsaX25WsHal0cgrw4nFh)
 
 # 设备
 
@@ -90,9 +91,5 @@
 # Windows
 
 - [Windows 11 专业工作站版](https://next.itellyou.cn/Original/#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6)
-
-# 网站
-
-- [电子图书资源大全](https://jvw69opkhd.feishu.cn/base/RCKdbmYBsaX25WsHal0cgrw4nFh)
 
 ……
