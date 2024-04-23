@@ -45,7 +45,7 @@
   - [JustTrustMe](https://github.com/Fuzion24/JustTrustMe)：禁用、绕过 SSL 证书检查
   - [TrustMeAlready](https://github.com/ViRb3/TrustMeAlready)：禁用、绕过 SSL 证书检查
   - [NoStorageRestrict](https://github.com/Xposed-Modules-Repo/com.github.dan.nostoragerestrict)：去除通过文件管理器选择 Sdcard、Download、data 或 obb 文件夹的限制
-  - Scene
+  - [Scene](http://vtools.omarea.com/#/)
   - [WooBox For MIUI](https://github.com/Simplicity-Team/WooBoxForMIUI)：MIUI 系统拓展
 - [Shizuku](https://shizuku.rikka.app/zh-hans/)：让应用直接使用系统 API
 - [Scene](http://vtools.omarea.com/)：性能调节、性能检测、应用管理等
