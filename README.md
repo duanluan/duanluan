@@ -63,7 +63,7 @@
 
 - [影视仓](https://www.juwanhezi.com/item/246)：TVbox 修改，手机 / TV
   - [全网最全免费数据源，TVbox 系列数据源接口地址，TVbox 影视仓电视盒子接口，猫影视 TV 数据源接口 - 聚玩盒子](https://www.juwanhezi.com/other/jsonlist)
-  - [影视仓配置接口地址（亲测最新可用） - 硬核影视指南](https://yinghe.app/yingshicang-jiekou/)
+  - [影视仓配置接口地址 - 硬核影视指南](https://yinghe.app/yingshicang-jiekou/)
 - [海阔视界](https://haikuoshijie.cn/archives/fang-yuan-ying-shi-chang-jian-wen-ti)：通过规则将网页变成原生，浏览影视、音乐、图片、小说、资源、工具等
 - [阅读](https://github.com/gedoor/legado)：自定义来源阅读网络内容，主要为书源
 - [静读天下](https://www.google.com/search?q=%E9%9D%99%E8%AF%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E4%B8%9A)：阅读器
