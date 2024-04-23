@@ -86,6 +86,8 @@
 - [忆术家](https://www.google.com/search?q=memrise+mod)：语言学习
 - [Mondly](https://www.google.com/search?q=mondly+mod)：语言学习
 - [Drops](https://www.google.com/search?q=drops+mod)：语言学习
+- [LingoDeer](https://www.google.com/search?q=lingodeer+mod)：语言学习
+- [不背单词](https://bbdc.cn/index)：背单词
 - [MorseMania](https://play.google.com/store/apps/details?id=net.countrymania.morse)：摩斯电码学习
 
 # Windows
