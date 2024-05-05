@@ -54,6 +54,7 @@
 - [NP 管理器](https://github.com/githubXiaowangzi/NP-Manager)：类 MT 文件管理器
 - [元萝卜](https://die.lu/)：Xposed 功能注入、应用多开
 - [GKD](https://github.com/gkd-kit/gkd)：自定义屏幕点击，广告跳过
+  - [Adpro-Team/GKD_THS_List: GKD 第三方订阅收录名单](https://github.com/Adpro-Team/GKD_THS_List)
 - [Blocker](https://github.com/lihenggui/blocker)：管理 APP 的广播接收器（Broadcast Receiver）、服务（Service）、活动（Activity）、内容提供者（Content Provider）
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider)：一键隐藏隐私文件和应用
 - [隐秘参数](https://github.com/x1y9/x1y9.github.io/releases/tag/com.x1y9.probe)：本机硬件信息查询
