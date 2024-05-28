@@ -95,4 +95,29 @@
 
 - [Windows 11 专业工作站版](https://next.itellyou.cn/Original/#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6)
 
+## 系统工具
+
+- [OneCommander](https://www.google.com.hk/search?q=onecommander+pro)：多栏多标签文件资源管理器
+- [StartAllBack](https://www.google.com.hk/search?q=startallback+crack+%E7%A0%B4%E8%A7%A3)：开始菜单、任务栏、右键菜单恢复增强
+- [7-Zip](https://www.7-zip.org/download.html)：解压缩
+- [Proxifier](https://www.google.com.hk/search?q=Proxifier+crack+%E7%A0%B4%E8%A7%A3)：全局、应用或域名规则代理
+
+## 一般应用
+
+- [Everything](https://www.voidtools.com/zh-cn/)：快速搜索定位文件和文件夹
+- [KeePassXC](https://keepassxc.org/)：密码管理器
+- [Snipaste](https://zh.snipaste.com/)：截图贴图
+- [PixPin](https://pixpinapp.com/)：截图/贴图/长截图/文字识别/标注，此处仅用长截图功能
+- [uTools](https://u.tools/)：快捷启动 + 插件
+- [Internet Download Manager](https://www.internetdownloadmanager.com/)：下载工具
+  - [lstprjct/IDM-Activation-Script: IDM Activation & Trail Reset Script](https://github.com/lstprjct/IDM-Activation-Script)
+- [QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic)：网易云换源
+
+## 开发
+
+- [IntelliJ IDEA Ultimate](https://www.jetbrains.com/zh-cn/idea/)：Java 和 Kotlin IDE
+- [PyCharm Professional](https://www.jetbrains.com/zh-cn/pycharm/)：Python IDE
+
+## 浏览器扩展插件
+
 ……
