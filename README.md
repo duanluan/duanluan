@@ -21,6 +21,8 @@
 
 ## 搞机
 
+- [TWRP](https://twrp.me/)：第三方 recovery
+  - [小米 10 至尊纪念版澎湃 OS 系统 TWRP_-Mi10Ultra_v8.6_A14-cas - 文件下载 - 刷机教程 - ROM 基地](http://www.romjd.com/jiaocheng/content/18651)
 - [VoyagerKernel](http://www.coolapk.com/u/2502654)：内核
 - [Kitsune Mask](https://jesse205.github.io/MagiskChineseDocument/delta/main.html)：狐妖面具
   - [Magisk Overlayfs](https://github.com/HuskyDG/magic_overlayfs)：System 分区读写
