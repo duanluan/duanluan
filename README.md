@@ -97,6 +97,7 @@
 
 ## 系统工具
 
+- [abbodi1406/KMS_VL_ALL_AIO: Smart Activation Script](https://github.com/abbodi1406/KMS_VL_ALL_AIO)：Windows、Office 自动激活脚本
 - [OneCommander](https://www.google.com.hk/search?q=onecommander+pro)：多栏多标签文件资源管理器
 - [StartAllBack](https://www.google.com.hk/search?q=startallback+crack+%E7%A0%B4%E8%A7%A3)：开始菜单、任务栏、右键菜单恢复增强
 - [7-Zip](https://www.7-zip.org/download.html)：解压缩
@@ -120,4 +121,6 @@
 
 ## 浏览器扩展插件
 
+- [Tampermonkey](https://www.tampermonkey.net/)
+  - [AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178)
 ……
