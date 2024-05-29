@@ -123,6 +123,15 @@
 
 ## 浏览器扩展插件
 
+- [Adblock Plus](https://adblockplus.org/zh_CN/)：广告拦截器
+- [IDM Integration Module](https://www.internetdownloadmanager.com/)：IDM 支持
+- [KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser)：KeepassXC 支持
+- [Proxy SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)：管理和切换多个代理
+- [Saladict 沙拉查词](https://saladict.crimx.com/)：聚合词典划词翻译
+- [Relingo](https://cn.relingo.net/zh/)：翻译部分单词，掌握生词 | 双语字幕 | 沉浸式翻译 | PDF 翻译
+- [沉浸式翻译](https://immersivetranslate.com/)：双语对照网页翻译 | PDF 翻译 | 视频字幕翻译
+- [Wappalyzer](https://www.wappalyzer.com/)：找出网站是由什么构建的
 - [Tampermonkey](https://www.tampermonkey.net/)
   - [AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178)
+
 ……
