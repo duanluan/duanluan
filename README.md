@@ -74,6 +74,7 @@
 
 ## 工具
 
+- [Keepass2Android](https://github.com/PhilippC/keepass2android)：密码管理器
 - [Knots 3D](https://www.google.com/search?q=knots+3d+mod)：3D 绳结
 - [TTS Server](https://github.com/jing332/tts-server-android)：系统 TTS 应用，可自定义 HTTP 请求，可导入其他本地 TTS 引擎，以及根据中文双引号的简单旁白 / 对话识别朗读 ，还有自动重试，备用配置，文本替换等
   - [Azure 语音服务 + TTS Server 插件朗读旁白对话](https://blog.zhjh.top/archives/imfuKz7Sv5H7g3Yp11uPV)
@@ -95,19 +96,21 @@
 
 # Windows
 
-- [Windows 11 专业工作站版](https://next.itellyou.cn/Original/#cbp=Product?ID=42e87ac8-9cd6-eb11-bdf8-e0d4e850c9c6)
+- [Windows 11 专业工作站版](https://www.google.com/search?q=win11+%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83)：不忘初心纯净精简版
 
 ## 系统工具
 
 - [abbodi1406/KMS_VL_ALL_AIO: Smart Activation Script](https://github.com/abbodi1406/KMS_VL_ALL_AIO)：Windows、Office 自动激活脚本
-- [OneCommander](https://www.google.com.hk/search?q=onecommander+pro)：多栏多标签文件资源管理器
-- [StartAllBack](https://www.google.com.hk/search?q=startallback+crack+%E7%A0%B4%E8%A7%A3)：开始菜单、任务栏、右键菜单恢复增强
+- [OneCommander](https://www.google.com/search?q=onecommander+pro)：多栏多标签文件资源管理器
+- [StartAllBack](https://www.google.com/search?q=startallback+crack+%E7%A0%B4%E8%A7%A3)：开始菜单、任务栏、右键菜单恢复增强
 - [7-Zip](https://www.7-zip.org/download.html)：解压缩
-- [Proxifier](https://www.google.com.hk/search?q=Proxifier+crack+%E7%A0%B4%E8%A7%A3)：全局、应用或域名规则代理
+- [Proxifier](https://www.google.com/search?q=Proxifier+crack+%E7%A0%B4%E8%A7%A3)：全局、应用或域名规则代理
 
 ## 一般应用
 
 - [Everything](https://www.voidtools.com/zh-cn/)：快速搜索定位文件和文件夹
+- [Synology Drive Client](https://kb.synology.cn/zh-cn/DSM/help/SynologyDriveClient/synologydriveclient)：群辉同步
+- [SyncTrayzor](https://github.com/canton7/SyncTrayzor)：Syncthing 客户端
 - [KeePassXC](https://keepassxc.org/)：密码管理器
 - [Snipaste](https://zh.snipaste.com/)：截图贴图
 - [PixPin](https://pixpinapp.com/)：截图/贴图/长截图/文字识别/标注，此处仅用长截图功能
@@ -119,7 +122,23 @@
 ## 开发
 
 - [IntelliJ IDEA Ultimate](https://www.jetbrains.com/zh-cn/idea/)：Java 和 Kotlin IDE
+  - [Alibaba Java Coding Guidelines(Fix Some Bug)](https://plugins.jetbrains.com/plugin/22381)：阿里巴巴 Java 编码规范检查
+  - [Cyan Light Theme](https://plugins.jetbrains.com/plugin/12102)
+  - [Extra ToolWindow Colorful Icons](https://plugins.jetbrains.com/plugin/16604)：更多图标
+  - [GitHub Copilot](https://github.com/features/copilot)：AI 代码提示
+  - [Grep Console](https://plugins.jetbrains.com/plugin/7125)：高亮控制台不同级别，过滤控制台内容等
+  - [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308)：缩进彩虹色
+  - [JRebel and XRebel](https://plugins.jetbrains.com/plugin/4441)：热部署和性能分析
+  - [JRebel mybatisPlus extension](https://plugins.jetbrains.com/plugin/12682)：使 JRebel 支持 MyBatis XML 热部署
+  - [MyBatis Log EasyPlus](https://plugins.jetbrains.com/plugin/21381)：输出 MyBatis 补全参数后的 SQL
+  - [MyBatis X](https://plugins.jetbrains.com/plugin/10119)：MyBatis Mapper 和 XML 互相跳转，代码补全生成等
+  - [Rainbow Brackets Lite](https://plugins.jetbrains.com/plugin/20710)：括号彩虹色
+  - [Translation](https://plugins.jetbrains.com/plugin/8579)：翻译
 - [PyCharm Professional](https://www.jetbrains.com/zh-cn/pycharm/)：Python IDE
+- [DataGrip](https://www.jetbrains.com/zh-cn/datagrip/)：数据库管理
+- [Godot](https://godotengine.org/)：Godot 引擎 IDE
+- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium)：数据库管理
+  - [xiaoJun / Navicat Keygen 16V · GitLab](https://gitlab.com/ajiajishu/navicat-keygen-16V)
 
 ## 浏览器扩展插件
 
