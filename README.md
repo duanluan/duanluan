@@ -7,6 +7,7 @@
 
 # 设备
 
+- 一加 12（在路上）：24G + 1TB
 - Mi 10 Ultra：16G + 512G、HyperOS 1.0.2.0.TJJCNXM、4500mAh x2
   - [安卓 Android 11、12 不使用第三方 Recovery TWRP 刷入 Magisk v2X+ 支持联发科](https://blog.zhjh.top/archives/install-magisk-not-trwp)
   - [安卓 小米 MIUI boot.img 内核解容教程](https://blog.zhjh.top/archives/px3a3EQPQwklpntVFXwZ3)
