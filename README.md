@@ -22,16 +22,21 @@
 
 ## 搞机
 
+- ROM：手机系统
+  - [XiaomiROM.com - 小米ROM线刷包，卡刷包的最新及历史版本下载](https://xiaomirom.com/)
+  - [一加手机官方 ROM 下载_全量包_线刷包_救砖包_降级包_一键 Root 工具 - 大侠阿木云盘](https://yun.daxiaamu.com/OnePlus_Roms/)
 - [TWRP](https://twrp.me/)：第三方 recovery
   - [小米 Recovery 下载 | Recovery 大全 - FiimeROM](https://mi.fiime.cn/search?molds=recovery&word=%E5%B0%8F%E7%B1%B310Ultra)
-- [VoyagerKernel](http://www.coolapk.com/u/2502654)：内核
-- [Kitsune Mask](https://jesse205.github.io/MagiskChineseDocument/delta/main.html)：狐妖面具
+- [VoyagerKernel](http://www.coolapk.com/u/2502654)：内核（Mi 10 Ultra）
+- [Kitsune Mask](https://jesse205.github.io/MagiskChineseDocument/delta/main.html)：狐妖面具，Magisk 分支（Mi 10 Ultra）
   - [Magisk Overlayfs](https://github.com/HuskyDG/magic_overlayfs)：System 分区读写
   - [Zygisk - LSPosed](https://github.com/LSPosed/LSPosed/releases)：Zygisk 版本的 LSPosed
   - [Zygisk - Enhanced mode for Storage lsolation](https://sr.rikka.app/zh-hans/guide/enhanced_mode/install/#zygisk)：存储空间隔离的 Zygisk 版本的增强模块
   - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)：隐藏 ROOT
   - Scene 的附加模块
   - Scene 的附加模块（二）
+- [APatch](https://github.com/bmax121/APatch)：有 KernelSU 的高隐藏性，兼容 Magisk 模块（一加 12）
+- [一加全能盒子](https://optool.daxiaamu.com/wiki_optool)：（一加 12）
 - [LSPosed](https://github.com/LSPosed/LSPosed)
   - [5G 开关](https://github.com/buffcow/FiveGSwitcher)：在状态栏的移动网络面板中添加 5G 网络开关
   - [杜比大喇叭β](https://github.com/luoxingran/dolby_beta)：网易云音乐本地黑胶、换源、精简等
