@@ -11,12 +11,13 @@
 - Mi 10 Ultra：16G + 512G、HyperOS 1.0.2.0.TJJCNXM、Typ:2250mAh_Min:2180mAh x 4
   - [安卓 Android 11、12 不使用第三方 Recovery TWRP 刷入 Magisk v2X+ 支持联发科](https://blog.zhjh.top/archives/install-magisk-not-trwp)
   - [安卓 小米 MIUI boot.img 内核解容教程](https://blog.zhjh.top/archives/px3a3EQPQwklpntVFXwZ3)
-- 小米手环 5 NFC 版
-  - [获取小米手环的授权秘钥（Auth Key）](https://blog.zhjh.top/archives/JxERnkrakYIxXXcv5iccI)
+- Samsung Tab S7+：8G + 256G
 - 联想拯救者 R7000P：64G + 2TB、Windows 11 专业工作站版
 - 红米 Redmi 路由器 AX6000
   - [红米 Redmi 路由器 AX6000 降级开启 Telnet 解锁 SSH 刷机 OpenWrt/ImmortalWrt](https://blog.zhjh.top/archives/KydrXG7CBTchFywckJQfZ)
 - 群辉 Synology NAS DS920+：2G + 4TB
+- 小米手环 5 NFC 版
+  - [获取小米手环的授权秘钥（Auth Key）](https://blog.zhjh.top/archives/JxERnkrakYIxXXcv5iccI)
 
 # 安卓
 
