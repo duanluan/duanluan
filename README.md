@@ -67,7 +67,7 @@
 - [Blocker](https://github.com/lihenggui/blocker)：管理 APP 的广播接收器（Broadcast Receiver）、服务（Service）、活动（Activity）、内容提供者（Content Provider）
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider)：一键隐藏隐私文件和应用
 - [隐秘参数](https://github.com/x1y9/x1y9.github.io/releases/tag/com.x1y9.probe)：本机硬件信息查询
-- [自动任务](https://www.coolapk.com/apk/935131)
+- [自动任务](https://github.com/xjunz/AutoTask)
 
 ## 影音视
 
