@@ -16,7 +16,7 @@
 
 # 主页
 - [GitHub](https://github.com/duanluan)
-- [CSDN 博客](https://blog.csdn.net/duanluan?type=blog)
+- [博客](https://blog.zhjh.top)
 
 # 作品
 
