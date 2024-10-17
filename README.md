@@ -25,6 +25,7 @@
 
 ## 待填坑作品
 
+- easy-blog：一键同步多平台博文
 - [taro-guide](https://github.com/duanluan/taro-guide)：Taro 渐进式教程，Vue3（Composition API） + TypeScript + Pinia + Sass。
 - [MyCommunity](https://github.com/csa-f/MyCommunity)：通过机器人整合 Discord、飞书、QQ[频道]、微信，完成互联。
 - [ultimate-resources-zh-hans](https://github.com/duanluan/ultimate-resources-zh-hans)：电子书、软件、Chrome 扩展、网站等推荐。
