@@ -28,10 +28,10 @@
 - [taro-guide](https://github.com/duanluan/taro-guide)：Taro 渐进式教程，Vue3（Composition API） + TypeScript + Pinia + Sass。
 - [MyCommunity](https://github.com/csa-f/MyCommunity)：通过机器人整合 Discord、飞书、QQ[频道]、微信，完成互联。
 - [ultimate-resources-zh-hans](https://github.com/duanluan/ultimate-resources-zh-hans)：电子书、软件、Chrome 扩展、网站等推荐。
+- [my-zlib](https://github.com/duanluan/my-zlib)：zlib、安娜种子搜索下载工具
 - 计科艺组织官网：？？？
 
 ## 废弃作品
-- [my-zlib](https://github.com/duanluan/my-zlib)：zlib 种子搜索下载工具
 - [wuyou](https://github.com/duanluan/wuyou)：Spring Boot + MyBatis Plus + Shiro + Thymeleaf 快速开发框架
 - [win-automation-macro](https://github.com/duanluan/win-automation-macro)：Node 版按键精灵
 - [BaiduNetdiskAutoShare](https://github.com/duanluan/BaiduNetdiskAutoShare)：百度网盘失效链接自动重新分享
