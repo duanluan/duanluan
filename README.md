@@ -1,16 +1,6 @@
-程序员
-
-主要从事 Java 开发，对 Vue/Angular/React、Python、Rust、C# 皆有使用了解。
+不加班就会被问且没有加班工资的程序员。
 
 擅长搜集与整理，有耐心、追求完美作为优缺点量子不确定。
-
-## 历程
-
-2014 年初，辍学并到南京培训 Java。
-
-2015 年 7 月，相继在南京、常州等城市工作。
-
-……
 
 技术栈包括但不限于：
 <div >
@@ -51,6 +41,14 @@
 	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/>
 	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/>
 </div>
+
+## 历程
+
+2014 年初，辍学并到南京培训 Java。
+
+2015 年 7 月，相继在南京、常州等城市工作。
+
+……
 
 ## 主页
 - [GitHub](https://github.com/duanluan)
