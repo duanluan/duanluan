@@ -56,9 +56,10 @@
 
 ## 作品
 
-- [ZUtil](https://duanluan.github.io/ZUtil/)：追求更快更全的 Java 工具类
-- [wuyou-boot](https://github.com/duanluan/wuyou-boot)：无尤，管理后台 admin 单体后端
-- [wuyou-boot-ui](https://github.com/duanluan/wuyou-boot-ui)：无尤，管理后台 admin 单体前端
+- [ZUtil](https://duanluan.github.io/zutil/)：追求更快更全的 Java 工具类
+- [ZUtil Desktop](https://github.com/duanluan/zutil-desktop)：基于 ZUtil 的桌面客户端
+- [WuYou Boot](https://github.com/duanluan/wuyou-boot)：无尤，管理后台 admin 单体后端
+- [WuYou Boot UI](https://github.com/duanluan/wuyou-boot-ui)：无尤，管理后台 admin 单体前端
 - [技术远离政治](https://greasyfork.org/zh-CN/scripts/440854)：油猴脚本，移除或替换政治相关条幅，替换政治相关 Logo 为原版 Logo，去除政治相关通知。
 - [Discourse Pro](https://greasyfork.org/zh-CN/scripts/520817)：增强 Discourse 论坛。
 - [deepin-notes](https://github.com/duanluan/deepin-notes)：Deepin 使用笔记
