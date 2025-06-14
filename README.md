@@ -64,7 +64,7 @@
 - [Discourse Pro](https://greasyfork.org/zh-CN/scripts/520817)：增强 Discourse 论坛。
 - [deepin-notes](https://github.com/duanluan/deepin-notes)：Deepin 使用笔记
 - [py-poetry-config-log-example](https://github.com/duanluan/py-poetry-config-log-example)：Poetry 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
-- [uv-poetry-config-log-example](https://github.com/duanluan/uv-poetry-config-log-example)：uv 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
+- [py-uv-config-log-example](https://github.com/duanluan/py-uv-config-log-example)：uv 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
 
 ## 待填坑作品
 
