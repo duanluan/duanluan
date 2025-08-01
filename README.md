@@ -54,20 +54,22 @@
 - [GitHub](https://github.com/duanluan)
 - [个人博客](https://blog.zhjh.top/)
 
-## 作品
-
+## 项目
 - [ZUtil](https://duanluan.github.io/zutil/)：追求更快更全的 Java 工具类
 - [ZUtil Desktop](https://github.com/duanluan/zutil-desktop)：基于 ZUtil 的桌面客户端
 - [WuYou Boot](https://github.com/duanluan/wuyou-boot)：无尤，管理后台 admin 单体后端
 - [WuYou Boot UI](https://github.com/duanluan/wuyou-boot-ui)：无尤，管理后台 admin 单体前端
 - [技术远离政治](https://greasyfork.org/zh-CN/scripts/440854)：油猴脚本，移除或替换政治相关条幅，替换政治相关 Logo 为原版 Logo，去除政治相关通知。
 - [Discourse Pro](https://greasyfork.org/zh-CN/scripts/520817)：增强 Discourse 论坛。
-- [deepin-notes](https://github.com/duanluan/deepin-notes)：Deepin 使用笔记
 - [py-poetry-config-log-example](https://github.com/duanluan/py-poetry-config-log-example)：Poetry 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
 - [py-uv-config-log-example](https://github.com/duanluan/py-uv-config-log-example)：uv 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
 
-## 待填坑作品
+## 笔记
+- [linux-notes](https://github.com/duanluan/linux-notes)：Linux 使用笔记
+- windows-notes：Windows 使用笔记
+- [radar-notes](https://github.com/duanluan/radar-notes)：雷达学习笔记
 
+## 待填坑项
 - easy-blog：一键同步多平台博文
 - [taro-guide](https://github.com/duanluan/taro-guide)：Taro 渐进式教程，Vue3（Composition API） + TypeScript + Pinia + Sass。
 - [MyCommunity](https://github.com/csa-f/MyCommunity)：通过机器人整合 Discord、飞书、QQ[频道]、微信，完成互联。
@@ -75,7 +77,7 @@
 - [my-zlib](https://github.com/duanluan/my-zlib)：zlib、安娜种子搜索下载工具
 - 计科艺组织官网：？？？
 
-## 废弃作品
+## 归档项目
 - [wuyou](https://github.com/duanluan/wuyou)：Spring Boot + MyBatis Plus + Shiro + Thymeleaf 快速开发框架
 - [win-automation-macro](https://github.com/duanluan/win-automation-macro)：Node 版按键精灵
 - [BaiduNetdiskAutoShare](https://github.com/duanluan/BaiduNetdiskAutoShare)：百度网盘失效链接自动重新分享
@@ -85,7 +87,6 @@
 
 
 ## 组织
-
 欢迎加入计算机技术组织：计算机科学与艺术基金会（CSAF）
 - [QQ 群（148917305）](https://jq.qq.com/?_wv=1027&k=ZGvIM1CP)
 - [QQ 频道](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=PVlwE&from=246610&biz=ka)
