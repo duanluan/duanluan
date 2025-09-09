@@ -42,6 +42,8 @@
 	<img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/>
 </div>
 
+![](https://raw.githubusercontent.com/duanluan/duanluan/refs/heads/snake/github-contribution-grid-snake.svg)
+
 ## 历程
 
 2014 年初，辍学并到南京培训 Java。
