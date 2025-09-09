@@ -1,0 +1,58 @@
+name: Generate Contribution Snake
+
+on:
+  # 1. 自动触发：每天 UTC 时间的 0 点运行一次
+  schedule:
+    - cron: "0 0 * * *"   
+  # 2. 手动触发：允许在 GitHub Actions 页面手动运行此 workflow
+  workflow_dispatch:
+  # 3. push 触发：当有代码推送到 main 分支时运行
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    # 使用最新的 ubuntu 镜像
+    runs-on: ubuntu-latest
+    # job 超时时间为 10 分钟
+    timeout-minutes: 10
+    steps:
+      # 步骤一：检出（Checkout）你的仓库代码
+      # 这是后续步骤能够访问仓库内容的前提
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 步骤二：生成贪吃蛇动画文件 (SVG 和 GIF)
+      # 使用 Platane/snk@v3 (主 action，支持 svg 和 gif)
+      - name: Generate github-contribution-grid-snake
+        uses: Platane/snk@v3
+        with:
+          # GitHub 用户名，${{ github.repository_owner }} 会自动获取仓库所有者的用户名
+          github_user_name: ${{ github.repository_owner }}
+          
+          # 定义输出文件列表
+          # 格式: <输出路径>?palette=<调色板>
+          # dist/ 目录是推荐的输出位置
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            
+        # GITHUB_TOKEN 是由 GitHub Actions 自动提供的，用于访问你的贡献数据
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 步骤三：将生成的文件推送到 output 分支
+      # 使用 crazy-max/ghaction-github-pages@v4 action
+      - name: Push generated files to the snake branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          # 目标分支名，如果不存在会自动创建
+          target_branch: snake
+          # 包含要部署的文件的目录
+          build_dir: dist
+        env:
+          # GITHUB_TOKEN 是必需的，用于授权推送到你的仓库
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
