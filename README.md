@@ -1,5 +1,3 @@
-不加班就会被问且没有加班工资的程序员。
-
 擅长搜集与整理，有耐心、追求完美作为优缺点量子不确定。
 
 技术栈包括但不限于：
@@ -43,14 +41,6 @@
 </div>
 
 ![](https://raw.githubusercontent.com/duanluan/duanluan/refs/heads/snake/github-contribution-grid-snake.svg)
-
-## 历程
-
-2014 年初，辍学并到南京培训 Java。
-
-2015 年 7 月，相继在南京、常州等城市工作。
-
-……
 
 ## 主页
 - [GitHub](https://github.com/duanluan)
