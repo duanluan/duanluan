@@ -57,6 +57,7 @@
 - [py-uv-config-log-example](https://github.com/duanluan/py-uv-config-log-example)：uv 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
 - [linux-notes](https://github.com/duanluan/linux-notes)：Arch Linux 系 Manjaro 使用笔记
 - [gobang](https://github.com/duanluan/gobang)：Godot 开发五子棋
+- 太岁神荒：修仙小说，设定完整，大纲 500 章，写完 100 章再发，目前进度第一章。
 
 ## 待填坑项
 - easy-blog：一键同步多平台博文
