@@ -51,11 +51,11 @@
 - [ZUtil Desktop](https://github.com/duanluan/zutil-desktop)：基于 ZUtil 的桌面客户端
 - [WuYou Boot](https://github.com/duanluan/wuyou-boot)：无尤，管理后台 admin 单体后端
 - [WuYou Boot UI](https://github.com/duanluan/wuyou-boot-ui)：无尤，管理后台 admin 单体前端
-- [技术远离政治](https://greasyfork.org/zh-CN/scripts/440854)：油猴脚本，移除或替换政治相关条幅，替换政治相关 Logo 为原版 Logo，去除政治相关通知。
-- [Discourse Pro](https://greasyfork.org/zh-CN/scripts/520817)：增强 Discourse 论坛。
+- [linux-notes](https://github.com/duanluan/linux-notes)：Arch Linux 系 Manjaro 使用笔记
+- [tampermonkey-scripts](https://github.com/duanluan/tampermonkey-scripts)：油猴脚本集合，包含 163 邮箱增强、Discourse 论坛增强、Gemini 对话增强、技术远离政治、V2EX 主题回复增强等。
+- [shell-scripts](https://github.com/duanluan/shell-scripts)：Shell 脚本集合，包含 Linux 微信激活、GitHub 下载加速（Axel/curl/wget 包装器）、Hosts 自动更新及 Dragonwell JDK 安装等。
 - [py-poetry-config-log-example](https://github.com/duanluan/py-poetry-config-log-example)：Poetry 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
 - [py-uv-config-log-example](https://github.com/duanluan/py-uv-config-log-example)：uv 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
-- [linux-notes](https://github.com/duanluan/linux-notes)：Arch Linux 系 Manjaro 使用笔记
 - [gobang](https://github.com/duanluan/gobang)：Godot 开发五子棋
 - 太岁神荒：修仙小说，设定完整，大纲 500 章，写完 100 章再发，目前进度第一章。
 
