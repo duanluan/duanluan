@@ -47,7 +47,7 @@
 - [个人博客](https://blog.zhjh.top/)
 
 ## 正在进行
-- [ZUtil](https://duanluan.github.io/zutil/)：追求更快更全的 Java 工具类
+- [ZUtil](https://github.com/duanluan/zutil)：追求更快更全的 Java 工具类
 - [ZUtil Desktop](https://github.com/duanluan/zutil-desktop)：基于 ZUtil 的桌面客户端
 - [WuYou Boot](https://github.com/duanluan/wuyou-boot)：无尤，管理后台 admin 单体后端
 - [WuYou Boot UI](https://github.com/duanluan/wuyou-boot-ui)：无尤，管理后台 admin 单体前端
