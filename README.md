@@ -58,7 +58,7 @@
 - [linux-notes](https://github.com/duanluan/linux-notes)：**Arch** 系 **Manjaro KDE** Linux 使用笔记，持续整理系统配置、软件安装与排障经验。
 - [windows-notes](https://github.com/duanluan/windows-notes)：Windows 使用笔记，待更新。
 - [tampermonkey-scripts](https://github.com/duanluan/tampermonkey-scripts)：**油猴**脚本集合，包含 163 邮箱增强、Discourse 论坛增强、Gemini 对话增强、技术远离政治、V2EX 主题回复增强等。
-- [shell-scripts](https://github.com/duanluan/shell-scripts)：个人常用 **Shell** **脚本**集合**。
+- [shell-scripts](https://github.com/duanluan/shell-scripts)：个人常用 **Shell** **脚本**集合。
 - [py-poetry-config-log-example](https://github.com/duanluan/py-poetry-config-log-example)：**Poetry** 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
 - [py-uv-config-log-example](https://github.com/duanluan/py-uv-config-log-example)：**uv** 管理依赖，使用 PyYAML 从 yml 读取配置，自定义 logging 生成日志，使用 APScheduler 和 py7zr 定时压缩归档日志。
 - [renpy-translate-studio](https://github.com/duanluan/renpy-translate-studio)：**Ren'Py** 游戏**翻译**客户端。
