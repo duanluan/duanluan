@@ -14,50 +14,47 @@
 
 | 项目 | 公开入口 | 定位 |
 | --- | --- | --- |
-| WuYou Docs | [wuyou-docs-releases](https://github.com/duanluan/wuyou-docs-releases) | 自研编辑器跨平台文档笔记 |
-| WuYou Toolkit | [wuyou-toolkit-releases](https://github.com/duanluan/wuyou-toolkit-releases) | 全能工具箱 |
+| WuYou Docs | [wuyou-docs-releases](https://github.com/duanluan/wuyou-docs-releases) | 跨平台自研编辑器文档笔记 |
+| WuYou Toolkit | [wuyou-toolkit-releases](https://github.com/duanluan/wuyou-toolkit-releases) | 跨平台全能工具箱 |
 
 ## 项目地图
 
-### WuYou
+### 脚手架
 
-- [wuyou-boot](https://github.com/duanluan/wuyou-boot)：无尤管理后台 admin 单体后端脚手架，Java / Spring Boot / MyBatis Plus / Sa-Token。
-- [wuyou-boot-ui](https://github.com/duanluan/wuyou-boot-ui)：无尤管理后台 admin 前端脚手架，Vue 3 / TypeScript / Vite / Pinia / Element Plus。
-- [wuyou-docs-releases](https://github.com/duanluan/wuyou-docs-releases)：自研编辑器跨平台文档笔记。
-- [wuyou-toolkit-releases](https://github.com/duanluan/wuyou-toolkit-releases)：全能工具箱。
+- [Wuyou Boot](https://github.com/duanluan/wuyou-boot)：无尤管理后台 admin 单体后端脚手架，Java / Spring Boot / MyBatis Plus / Sa-Token。
+- [Wuyou Boot UI](https://github.com/duanluan/wuyou-boot-ui)：无尤管理后台 admin 前端脚手架，Vue 3 / TypeScript / Vite / Pinia / Element Plus。
+- [py-uv-config-log-example](https://github.com/duanluan/py-uv-config-log-example)：uv 依赖管理、YAML 配置、自定义 logging、定时压缩归档日志示例。
+- [py-poetry-config-log-example](https://github.com/duanluan/py-poetry-config-log-example)：Poetry 依赖管理、YAML 配置、自定义 logging、定时压缩归档日志示例。
+
+### Linux
+
+- [Linux Notes](https://github.com/duanluan/linux-notes)：Linux 使用笔记，目前以 Manjaro KDE 为主。
+- [Shell Scripts](https://github.com/duanluan/shell-scripts)：个人常用 Shell 脚本集合。
+- [AUR Packages](https://github.com/duanluan/aur-packages)：AUR 打包相关内容。[我维护的软件包](https://aur.archlinux.org/packages?O=0&SeB=m&K=duanluan&outdated=&SB=p&SO=d&PP=50&submit=Go)
+- [EmEditor Linux](https://github.com/duanluan/emeditor-linux)：EmEditor Linux 版。
 
 ### 工具与组件
 
-- [zutil](https://github.com/duanluan/zutil)：追求更快更全的 Java 工具类，强调性能、完整性与可测试性。
-- ~~[zutil-desktop](https://github.com/duanluan/zutil-desktop)：基于 ZUtil 的桌面工具箱。~~
-- ~~[zui-compose-desktop](https://github.com/duanluan/zui-compose-desktop)：KMP 桌面组件库，服务于桌面工具箱的组件演示与实际使用。~~
-- ~~[openai-local-bridge](https://github.com/duanluan/openai-local-bridge)：让 Trae 使用 OpenAI-compatible API 的本地桥接服务。~~
-- [keyviz](https://github.com/duanluan/keyviz)：Keyviz 汉化版，免费开源的按键显示工具。
+- [ZUtil](https://github.com/duanluan/zutil)：追求更快更全的 Java 工具类，强调性能、完整性与可测试性。
+- [Tampermonkey Scripts](https://github.com/duanluan/tampermonkey-scripts)：油猴脚本集合，包含 163 邮箱增强、Discourse 论坛增强、Gemini 对话增强、V2EX 主题回复增强等。
+- [Claude Desktop Plus](https://github.com/duanluan/claude-desktop-plus)：增强 Claude Desktop。
+- [Codex++ Launcher](https://github.com/duanluan/codex-plus-plus-launcher)：通过 npm 快速安装 Codex++。
 
-### 笔记与自动化
+### 其他
 
-- [linux-notes](https://github.com/duanluan/linux-notes)：Linux 使用笔记，目前以 Manjaro KDE 为主。
-- [windows-notes](https://github.com/duanluan/windows-notes)：Windows 使用笔记，待更新。
-- [shell-scripts](https://github.com/duanluan/shell-scripts)：个人常用 Shell 脚本集合。
-- [aur-packages](https://github.com/duanluan/aur-packages)：AUR 打包相关内容。
-- [tampermonkey-scripts](https://github.com/duanluan/tampermonkey-scripts)：油猴脚本集合，包含 163 邮箱增强、Discourse 论坛增强、Gemini 对话增强、V2EX 主题回复增强等。
-
-### 示例与资料
-
-- [py-uv-config-log-example](https://github.com/duanluan/py-uv-config-log-example)：uv 依赖管理、YAML 配置、自定义 logging、定时压缩归档日志示例。
-- [py-poetry-config-log-example](https://github.com/duanluan/py-poetry-config-log-example)：Poetry 依赖管理、YAML 配置、自定义 logging、定时压缩归档日志示例。
-- [ultimate-resources-zh-hans](https://github.com/duanluan/ultimate-resources-zh-hans)：电子书、软件、Chrome 扩展、网站等推荐。
-- ~~[taro-guide](https://github.com/duanluan/taro-guide)：Taro 渐进式教程，Vue 3 + TypeScript + Pinia + Sass。~~
-
-### 游戏与内容
-
-- [renpy-translate-studio](https://github.com/duanluan/renpy-translate-studio)：Ren'Py 游戏翻译客户端。
-- [gobang](https://github.com/duanluan/gobang)：Godot 五子棋。
+- [Spring Framework 5.3.42 Security Fork](https://github.com/duanluan/spring-framework)：修复了 CVE-2024-38819、CVE-2024-38820 和 CVE-2024-38828。
+- [RenPy Translate Studio](https://github.com/duanluan/renpy-translate-studio)：Ren'Py 游戏翻译客户端。
+- [Gobang](https://github.com/duanluan/gobang)：Godot 五子棋。
 - 太岁神荒：修仙小说，设定完整，大纲 500 章，写完 100 章再发，目前进度第一章。
 
 <details>
-<summary>更早项目</summary>
+<summary>更早项目（废弃）</summary>
 
+- [zutil-desktop](https://github.com/duanluan/zutil-desktop)：基于 ZUtil 的桌面工具箱。
+- [zui-compose-desktop](https://github.com/duanluan/zui-compose-desktop)：KMP 桌面组件库，服务于桌面工具箱的组件演示与实际使用。
+- [openai-local-bridge](https://github.com/duanluan/openai-local-bridge)：让 Trae 使用 OpenAI-compatible API 的本地桥接服务。
+- [ultimate-resources-zh-hans](https://github.com/duanluan/ultimate-resources-zh-hans)：电子书、软件、Chrome 扩展、网站等推荐。
+- [taro-guide](https://github.com/duanluan/taro-guide)：Taro 渐进式教程，Vue 3 + TypeScript + Pinia + Sass。
 - [wuyou](https://github.com/duanluan/wuyou)：Spring Boot + MyBatis Plus + Shiro + Thymeleaf 快速开发框架。
 - [win-automation-macro](https://github.com/duanluan/win-automation-macro)：Node 版按键精灵。
 - [BaiduNetdiskAutoShare](https://github.com/duanluan/BaiduNetdiskAutoShare)：百度网盘失效分享自动重新生成。
