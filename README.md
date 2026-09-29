@@ -2,7 +2,7 @@
 
 # 你好，我是无尤 / duanluan
 
-全栈程序员 | Linux 爱好者 | 你还能有 Codex 聪明？
+全栈程序员 | Linux 爱好者 | 你还能有 ~~Codex~~ ZCode 聪明？
 
 擅长搜集与整理，有耐心、追求完美作为优缺点量子不确定。
 
@@ -14,11 +14,11 @@
 
 | 项目 | 公开入口 | 定位 |
 | --- | --- | --- |
-| ZCode Pro | [zcode-pro](https://github.com/duanluan/zcode-pro) | ZCode 桌面版界面增强 |
-| ZCode Plugins | [zcode-plugins](https://github.com/duanluan/zcode-plugins) | ZCode 插件集合（插件市场源） |
-| MeshDock | [meshdock-releases](https://github.com/meshdock/meshdock-releases) | 简单好用的组网工具：版本发布与问题反馈 |
 | WuYou Docs | [wuyou-docs-releases](https://github.com/duanluan/wuyou-docs-releases) | 跨平台自研编辑器文档笔记 |
 | WuYou Toolkit | [wuyou-toolkit-releases](https://github.com/duanluan/wuyou-toolkit-releases) | 跨平台全能工具箱 |
+| MeshDock | [meshdock-releases](https://github.com/meshdock/meshdock-releases) | 跨平台简单易用的组网工具（gui/tui/web） |
+| ZCode Pro | [zcode-pro](https://github.com/duanluan/zcode-pro) | ZCode 桌面版界面增强 |
+| ZCode Plugins | [zcode-plugins](https://github.com/duanluan/zcode-plugins) | ZCode 插件集合（插件市场源） |
 
 ## 项目地图
 
@@ -35,14 +35,14 @@
 - [Shell Scripts](https://github.com/duanluan/shell-scripts)：个人常用 Shell 脚本集合。
 - [AUR Packages](https://github.com/duanluan/aur-packages)：AUR 打包相关内容。[我维护的软件包](https://aur.archlinux.org/packages?O=0&SeB=m&K=duanluan&outdated=&SB=p&SO=d&PP=50&submit=Go)
 - [EmEditor Linux](https://github.com/duanluan/emeditor-linux)：EmEditor Linux 版。
-- [arch-cleaner](https://github.com/duanluan/arch-cleaner)：Arch Linux 交互式可脚本化清理工具，Rust 实现，默认保守清理、改动前需确认。
+- [arch-cleaner](https://github.com/duanluan/arch-cleaner)：Arch Linux 交互式可脚本化清理工具。
 
 ### 工具与组件
 
 - [ZUtil](https://github.com/duanluan/zutil)：追求更快更全的 Java 工具类，强调性能、完整性与可测试性。
 - [EasyPoi](https://github.com/duanluan/easypoi)：基于 Apache POI 的 Office 导入导出工具集，注解驱动，支持 Excel 导入导出与 Word 模板导出。
 - [Tampermonkey Scripts](https://github.com/duanluan/tampermonkey-scripts)：油猴脚本集合，包含 163 邮箱增强、Discourse 论坛增强、Gemini 对话增强、V2EX 主题回复增强等。
-- [Claude Desktop Plus](https://github.com/duanluan/claude-desktop-plus)：增强 Claude Desktop。
+- ~~[Claude Desktop Plus](https://github.com/duanluan/claude-desktop-plus)：增强 Claude Desktop。~~
 - [Codex++ Launcher](https://github.com/duanluan/codex-plus-plus-launcher)：通过 npm 快速安装 Codex++。
 
 ### 其他
