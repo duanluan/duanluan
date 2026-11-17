@@ -1,14 +1,15 @@
-<div align="center">
+
 
 # 你好，我是无尤 / duanluan
 
-全栈程序员 | [Linux](https://duanluan.github.io/linux-notes/) 爱好者 | 你还能有 [GLM 5.3](https://www.bigmodel.cn/invite?icode=%2F5rY2bth7aqxA6TH%2FI0rxeZLO2QH3C0EBTSr%2BArzMw4%3D) / [MiMo 2.6 Pro](https://platform.xiaomimimo.com?ref=2U7ZVY) 聪明？
+全栈程序员 | [Linux](https://duanluan.github.io/linux-notes/) 爱好者 | 你还能有 AI 聪明？
 
 擅长搜集与整理，有耐心、追求完美作为优缺点量子不确定。
 
 [个人博客](https://blog.zhjh.top/) · [公开仓库](https://github.com/duanluan?tab=repositories) · [CSAF 组织](https://github.com/csa-f)
 
-</div>
+<img src="http://ghchart.rshah.org/duanluan" alt="duanluan's Github chart" />
+
 
 ## 当前优先
 
